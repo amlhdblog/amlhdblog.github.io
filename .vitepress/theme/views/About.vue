@@ -5,8 +5,8 @@
       <!-- 介绍 -->
       <div class="about-item hello">
         <span class="text1">你好，很高兴认识你👋</span>
-        <span class="text2 title2">我是 九天之上</span>  
-        <span class="text3">是一名 又菜又爱玩的小白</span>
+        <span class="text2 title2">我是 amlhdsan</span>  
+        <span class="text3">是一名 高二菜鸡</span>
       </div>
       <!-- 追求 -->
       <div class="about-item pursuit">
@@ -44,8 +44,8 @@
           <i>無限進步</i>
         </span>
         <div class="list">
-          <span class="list-item" style="--color: #357ef5">法学学士</span>
-          <span class="list-item" style="--color: #eb372a">房地产营销管理</span>
+          <span class="list-item" style="--color: #357ef5">初中学历？？</span>
+          <span class="list-item" style="--color: #eb372a">辅礽考试院院长</span>
         </div>
         <img
           class="career-img"
@@ -106,7 +106,7 @@
       >
         <div class="image-content">
           <span class="tip">音乐偏好</span>
-          <span class="title2">华语流行、摇滚、中国风、民谣</span>
+          <span class="title2">J-pop</span>
           <div class="image-desc">
             <span class="left">一起欣赏更多音乐</span>
           </div>
@@ -144,7 +144,7 @@
           class="about-item map image"
           style="background-image: url(https://pan.811520.xyz/2024-10/1730361853-1730361845894.webp)"
         >
-          <span class="position">我现在住在 <strong>中国，武汉</strong></span>
+          <span class="position">我现在住在 <strong>中国，铜陵</strong></span>
         </div>
         <div class="about-item info">
           <div class="info-item">
@@ -153,7 +153,7 @@
           </div>
           <div class="info-item">
             <span class="info-name">现在职业</span>
-            <span class="info-num" style="--color: #dfac46">资深房地产营销管理</span>
+            <span class="info-num" style="--color: #dfac46">高中牲</span>
           </div>
         </div>
       </div>
